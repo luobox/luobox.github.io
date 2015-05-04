@@ -2,7 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2015/05/04/hello-world/</loc>
+    <loc>http://luobox.github.io/about/index.html</loc>
+    <lastmod>2015-05-04T14:51:04.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://luobox.github.io/2015/05/04/my-new-post/</loc>
+    <lastmod>2015-05-04T14:41:25.687Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://luobox.github.io/2015/05/04/hello-world/</loc>
     <lastmod>2015-05-04T02:07:09.468Z</lastmod>
   </url>
   
