@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[ZsMj]]></title>
+  <title><![CDATA[ZsMj's Blog]]></title>
   <subtitle><![CDATA[Keep Calm and Carry On]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://luobox.github.io/"/>
-  <updated>2015-05-16T07:11:07.578Z</updated>
+  <updated>2015-05-16T09:47:52.484Z</updated>
   <id>http://luobox.github.io/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://luobox.github.io/2015/05/16/Python%E6%95%99%E7%A8%8B/"/>
     <id>http://luobox.github.io/2015/05/16/Python教程/</id>
     <published>2015-05-16T06:03:24.000Z</published>
-    <updated>2015-05-16T07:11:07.578Z</updated>
+    <updated>2015-05-16T09:47:52.484Z</updated>
     <content type="html"><![CDATA[<h6 id="Python_入门指南(中文版)">Python 入门指南(<a href="http://www.pythondoc.com/pythontutorial3/index.html" target="_blank" rel="external">中文版</a>)</h6>]]></content>
     <summary type="html">
     <![CDATA[<h6 id="Python_入门指南(中文版)">Python 入门指南(<a href="http://www.pythondoc.com/pythontutorial3/index.html" target="_blank" rel="external">中文版</a>)<]]>
@@ -27,7 +27,7 @@
     
       <category term="Python" scheme="http://luobox.github.io/tags/Python/"/>
     
-      <category term="blog" scheme="http://luobox.github.io/categories/blog/"/>
+      <category term="Python" scheme="http://luobox.github.io/categories/Python/"/>
     
   </entry>
   
